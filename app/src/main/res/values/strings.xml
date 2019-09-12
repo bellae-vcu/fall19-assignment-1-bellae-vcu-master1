@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">fall19-assignment-1-bellae-vcu</string>
+    <string name="welcomelock">Welcome to the App! The App is LOCKED!</string>
+    <string name="welcomeunlock">Welcome to the App! The App is UNLOCKED!</string>
+    <string name="unlock">Unlock</string>
+    <string name="access">Access Control</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="submit">Submit</string>
+
+</resources>
